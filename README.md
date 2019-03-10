@@ -1,7 +1,6 @@
 # Rolliball
 Simple rolling/flying ball game!
 
-Reccomend only cloning the Builds folder unless you'd like to make contributions!
 
 I used Unity's Roll-A-Ball and Adding Music to your Game tutorials as a base for this game. Links to both:
 https://unity3d.com/learn/tutorials/s/roll-ball-tutorial
