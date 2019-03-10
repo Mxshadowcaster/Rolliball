@@ -57,7 +57,7 @@ public class RollingBallController : MonoBehaviour {
             }
         }    
     }
-    //Diplays Lv 2 text and deletes at 12>th cube
+    //Diplays Lv 2 text and deletes at 12th cube
     void SetscoreText() {
         scoreText.text = "score: " + score.ToString();
         if (score == 12) {
