@@ -1,5 +1,5 @@
 # Rolliball
-Simple rolling/flying ball game!
+A Spacey Game of Balls and Cubes
 
 
 I used Unity's Roll-A-Ball and Adding Music to your Game tutorials as a base for this game. Links to both:
